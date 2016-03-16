@@ -1,0 +1,18 @@
+body{
+  font:12px "微软雅黑","arial";
+  color:#666;
+  margin:0px;
+  padding:0px;
+}
+p,ul,li,h1,h2,h3,h4,h5,h6{
+  margin:0px;
+  padding:0px;
+  list-style:none;
+  border:none;
+}
+input{
+  border:none;
+}
+.lf{float:left;}
+.rt{float:right;}
+.clear{clear:both;}
